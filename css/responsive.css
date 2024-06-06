@@ -31,7 +31,31 @@
         width: 100%;
         height: auto;
     }
+    .cl-2{
+        display: flex;
+    }
     .ico-1{
         margin-right: -26px;
+    }
+    .bl-1{
+        text-align: center;
+    }
+    .for-1{
+        margin-top: 30px;
+        padding: 10px 22px;
+        background-color: #21262c;
+        text-align: center;
+        color: #ffffff;
+        border: solid 1px #524e4e;
+        border-radius: 20px;
+    }
+    .btn-3{
+        text-decoration: none;
+        padding: 6px 20px;
+        background-color: #7492dc;
+        margin-left: 83px;
+        border: 1px solid #7492dc;
+        border-radius: 50px;
+        color: #ffffff;
     }
 }
